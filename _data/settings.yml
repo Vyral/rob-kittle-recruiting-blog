@@ -1,34 +1,34 @@
 audit_header: false
-title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: Fort Collins' Best Real Estate Training
+description: Rob Kittle, a top Real Estate Agent in Fort Collins, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
-  - title: Events
-    url: #
-  - title: Free Strategy Call
-    url: /strategy-call/
+  # - title: Events
+  #   url: #
+  # - title: Free Strategy Call
+    # url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
 
 
 client:
-  name:
+  name: Rob Kittle
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Rob Kittle started Kittle Real Estate in 1999 with the goal in mind to provide his clients with superior service in the Real Estate industry. Kittle Real Estate is comprised of 18 professionals that allow them to leverage their business and most importantly increase service and efficiency to their clients. The benefit to their clients is that they receive aggressive sales attention from an entire staff of professionals with one goal in mind - a successful transaction! Kittle Real Estate sold over 300 homes last year, that’s 43 times more than the average agent. Kittle Real Estate has provided Excellent Service for over 17 years and have helped over 3000 families buy or sell their home!
+  market: Fort Collins
+  brand: Kittle Real Estate
   brokerage:
-  address:
-  phone:
+  address: 300 S. Howes Street<br>Fort Collins, CO 80521
+  phone: 970-690-4920
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Rob@KittleTeam.com
+  url: http://RobKittle.com
 
 lender:
   show_section: false
@@ -44,11 +44,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/kittleteam
+  linkedin_url: http://www.linkedin.com/in/thekittleteam
+  gplus_url: https://plus.google.com/112882411348974197435/posts
+  youtube_url: https://www.youtube.com/user/robkittle
+  twitter_url: https://twitter.com/TheKittleTeam
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -74,8 +74,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#af102c'
+  theme_color: '#000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
