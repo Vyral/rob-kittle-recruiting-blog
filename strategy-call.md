@@ -34,20 +34,26 @@ permalink: /strategy-call/
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 
-<!-- <hr>
+<hr>
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">Kittle Real Estate was very hands on at the beginning. It was very beneficial at the beginning to gain the knowledge needed and learning the processes of real estate. Once I had a good base of knowledge, Kittle Real Estate was still there for my questions but let me take more control. I feel that it was to my advantage to take the reins since real estate success depends on how much time and effort a person puts into their business.</span><br>
+<span class="author">Ryan Magnus</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">When I came to Kittle Real Estate I was a brand new agent. I interviewed 6 brokerages and Kittle stood out above and beyond all the others. From the start I knew their systems and training are superior. Before the interview they had me take a DISC profile test to learn my personality and communication style. I was impressed with their desire to seek agents that fit their team structure and identify which role within the team I would fit into. I knew that to be the best real estate agent possible for my clients I had to learn from the best. Because we are a team, I have so many people at my disposal to seek advice and direction from. They taught me the ins and outs of prospecting, how to handle objections and be genuine in my approach to help people. In my first year of real estate I sold $9,000,000+ in volume!! My first year exceeded all of my expectations. It takes hard work, proven systems and professional support to bring success. Yet, at the end of the day, you have to be willing to put in the hard work too!</span><br>
+<span class="author">Amy Rushing</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">Before Kittle Real Estate I worked with two other brokerage firms, and Kittle Real Estate has, by far, the best training. It’s not only the training that’s superior, it’s the entire support team. When you become part of the Kittle team, you are supported  by a team that has so much knowledge and experience you can’t help but be successful. The training they provide goes way beyond taking classes and reading books. They give you the opportunity to get out into the market and have real hands on experiences. Those experiences are priceless!</span><br>
+<span class="author">Deano Zahakis</span></p>
+
+<p><span class="quote">Consistent initial training on the importance of knowing our scripts, working towards LPMAMA in every conversation and tracking every lead in depth instilled the strength of my knowledge. Followed by the sharing of years of experience on how to connect with my leads, making them feel important and the desire to help them in the process of finding the home of their dreams all lead to my success as a top producing agent. The strength of every team members knowledge shared through the process of my early transactions has helped me have confidence that shows through with every client interaction.</span><br>
+<span class="author">Kamara Shanks</span></p>
+
+<p><span class="quote">My expertise comes from the shared knowledge of our team of experts.</span><br>
+<span class="author">Kamara Shanks</span></p>
 </div>
-<hr> -->
+<hr>
 
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
 
